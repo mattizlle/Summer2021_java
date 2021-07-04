@@ -86,11 +86,12 @@ public class Homework1 {
          * 8. Initials of my name
          */
 
-        char initials = 'i';
+        char initials = 'I';
+        char initials1 = 'G';
 
         // Print --> Initials of my name are
 
-        System.out.println("\nInitials of my name is : " + initials);
+        System.out.println("\nInitials of my name is : " + initials + initials1);
 
 
 
